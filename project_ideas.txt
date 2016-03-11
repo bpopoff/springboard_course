@@ -1,0 +1,25 @@
+This is a short write up of the 3 project ideas I have had
+
+(1)
+Project Goal:
+     Use information gathered during pre-calculus to predict how students will perform in future math and science classes.
+Description:
+     My wife employer is a University and they have planned project to use data collected from a survey taken by pre-calculus students to predict there success in future science classes.  There are several hundred thousand student responses to use.
+Status:
+     I am meeting with someone involved in collecting the data next week.
+
+(2)
+Project Goal:
+     Make better predictions about the performance of Google Ads based on bid amount and weather conditions.
+Description:
+     It would be valuable for my employer to quantify the expected increase in quality traffic from Google Ads that would result from placing higher bids.  When looking at scatter plots with historical data, there seemed to be no relation between what we bid and what we received.  This is unintuitive and I am sure there are other factors influencing traffic. I hypothesize that weather (temperature, rainfall and humidity) is a large factor.  This project would use public weather information and our own data from Google Adwords to understand the relationship and hopefully make better predictions.
+Status:
+     This project remains a candidate.
+
+(3)
+Project:
+     Predict how leads will perform after being sold to a contractor.
+Description:
+     My employer collects and sells marketing information about homeowners seeking a service.  We want to predict which homeowners are most likely to buy a service based on some categorical data so we can make optimal decisions about whether to sell that information to contractors in our network.  Our contractor provide information about the decisions made by past homeowners that we can use as the input to a machine learning algorithm.
+Status:
+     I decided on to pursue this project as the data is too sparse.
