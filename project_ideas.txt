@@ -4,7 +4,7 @@ This is a short write up of the 3 project ideas I have had
 Project Goal:
      Use information gathered during pre-calculus to predict how students will perform in future math and science classes.
 Description:
-     My wife employer is a University and they have planned project to use data collected from a survey taken by pre-calculus students to predict there success in future science classes.  There are several hundred thousand student responses to use.
+     My wife employer is a University and they planned a project to use data collected from a survey taken by pre-calculus students to predict their success in future science classes.  There are several hundred thousand student responses to use.
 Status:
      I am meeting with someone involved in collecting the data next week.
 
