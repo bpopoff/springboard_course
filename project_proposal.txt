@@ -1,0 +1,11 @@
+Project Proposal
+
+I will be using machine learning and natural language processing algorithms to predict the grades that students will receive in an online calculus course based on their text response's to open ended questions about how they feel about the material midway through the course.
+
+The client is a large university.  They want to identify at risk students early so they can help those students before they fail.
+
+Each week, students watch videos online.  At the end of these videos, the students are asked to write about how they felt about the material.  The responses are stored in a database along with their final numeric grade for the course.  The data will be downloaded into a text file for me to parse.
+
+I will be using tools from from natural language parsing and machine learning.  I expect to be using scikit learn to transform each response into a vector of word counts, then reducing the dimensions of the vectors with principal component analysis, and then fitting a linear regression model using scikit learn.  I will also explore using "gensim word2vec" in place of scikit learn for vectorizing the responses and I will explore analyzing online calculus books to find meaningful n-grams (such as "horizonal asymptote") that are relevant to the student responses.
+
+Upon completion of the project, I will make the code available on GitHub as well as a power point presentation about what I tried and what worked.
